@@ -3,9 +3,16 @@ According to a National Health Interview Survey in 2018, 32.2 million American a
 
 In our project, we designed a robotic guide dog on Arduino platform and implemented some basic functionalities
 
+# Content
+```diff
+- To read the Paper, please click on the PDF file: 'Robot Guide Dog.pdf'
+- To see the Powerpoint, please click on the PPTX file: 'Robot Guide Dog PPT.pptx'
+```
 
 # Components
 - Robotic car
 - Arduino Board
 - Passive buzzer 
 - Ultrasonic sensor
+
+
