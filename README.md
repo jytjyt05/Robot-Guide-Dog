@@ -9,7 +9,7 @@ In our project, we designed a robotic guide dog on Arduino platform and implemen
 - To see the Powerpoint, please click on the PPTX file: 'Robot Guide Dog PPT.pptx'
 ```
 
-# Components
+# Hardware Components
 - Robotic car
 - Arduino Board
 - Passive buzzer 
