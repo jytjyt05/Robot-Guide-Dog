@@ -1,7 +1,7 @@
 # Overview
-According to a National Health Interview Survey in 2018, 32.2 million American adults (10% of the entire US population) aged 18 and older reported experiencing vision loss. Infrastructures and assistance for visually impaired people are thus in great need. Among them, guide dogs are one of the most popular blind assistants due to their friendliness and long-term accompany. However, their issues like high training costs and entrance restrictions in certain transportations and public areas have urged the exploration of other guidance options. 
+According to a National Health Interview Survey in 2018, 32.2 million American adults (10% of the entire US population) aged 18 and older reported experiencing vision loss. Infrastructures and assistance for visually impaired people are thus in great need. Among them, guide dogs are one of the most popular blind assistants due to their friendliness and long-term accompaniment. However, issues like high training costs and entrance restrictions in certain transportation and public areas have urged the exploration of other guidance options. 
 
-In our project, we designed a robotic guide dog on Arduino platform and implemented some basic functionalities
+In our project, we designed a robotic guide dog on the Arduino platform and implemented some basic functionalities of obstacle avoidance and sound notice. We hope this project can serve as a prototype of an applicable robot guide dog.
 
 # Content
 ```diff
@@ -11,8 +11,10 @@ In our project, we designed a robotic guide dog on Arduino platform and implemen
 
 # Hardware Components
 - Robotic car
-- Arduino Board
+- Arduino Board(s)
 - Passive buzzer 
 - Ultrasonic sensor
+- Linux
+
 
 
