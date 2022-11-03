@@ -12,7 +12,7 @@ In our project, we designed a robotic guide dog on the Arduino platform and impl
   ```diff 
   - To see the Powerpoint, please click on the PPTX file: 'Robot Guide Dog PPT.pptx'
   ```
-- **Video(s)**
+- **Demo Video(s)**
   - Line Track Demo: https://drive.google.com/file/d/16UL4ZWT8JHD-khd1m-q2Ys6f4C3CR3EV/view?usp=share_link
   - Final Demo: https://drive.google.com/file/d/1-5KxvUMe1B5oENRQmyCc1lvc2KCfbjYe/view?usp=sharing
 
